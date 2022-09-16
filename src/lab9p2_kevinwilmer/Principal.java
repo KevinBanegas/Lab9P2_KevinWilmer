@@ -56,7 +56,7 @@ public class Principal extends javax.swing.JFrame {
         jLabel1.setText("Nombre");
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 30, 40, 20));
 
-        jLabel2.setText("jLabel2");
+        jLabel2.setText("Costo");
         jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 110, 40, 20));
 
         jLabel3.setText("Categoria");
