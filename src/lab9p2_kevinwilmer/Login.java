@@ -180,7 +180,6 @@ public class Login extends javax.swing.JFrame {
     }//GEN-LAST:event_jTextField2ActionPerformed
 
     private void jToggleButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton2ActionPerformed
-        
         jDialog1.pack();
         jDialog1.setLocationRelativeTo(this);
         jDialog1.setModal(true);
